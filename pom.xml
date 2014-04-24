@@ -32,6 +32,13 @@
 		<url>http://jenkins.imagej.net/job/ImageJ-plugins-tools/</url>
 	</ciManagement>
 
+	<repositories>
+		<repository>
+			<id>imagej.public</id>
+			<url>http://maven.imagej.net/content/groups/public</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<!-- SciJava dependencies -->
 		<dependency>
@@ -66,12 +73,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
-	<repositories>
-		<repository>
-			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
-		</repository>
-	</repositories>
 
 </project>
