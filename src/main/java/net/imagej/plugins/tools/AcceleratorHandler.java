@@ -44,6 +44,8 @@ import org.scijava.plugin.Plugin;
 import org.scijava.tool.AbstractTool;
 import org.scijava.tool.Tool;
 
+// TODO: Migrate to scijava-plugins-tools component.
+
 /**
  * Handles keyboard accelerator combinations that launch modules.
  * <p>

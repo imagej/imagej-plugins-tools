@@ -42,6 +42,8 @@ import org.scijava.tool.AbstractTool;
 import org.scijava.tool.Tool;
 import org.scijava.util.TunePlayer;
 
+// TODO: Migrate to scijava-plugins-tools component.
+
 /**
  * Oh, the nostalgia!
  * 

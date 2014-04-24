@@ -44,6 +44,8 @@ import org.scijava.tool.AbstractTool;
 import org.scijava.tool.Tool;
 import org.scijava.ui.UIService;
 
+// TODO: Migrate to scijava-plugins-tools component.
+
 /**
  * Handles display of general-purpose context menu (e.g., on right mouse click).
  * 
