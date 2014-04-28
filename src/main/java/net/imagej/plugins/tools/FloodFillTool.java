@@ -97,7 +97,7 @@ public class FloodFillTool extends AbstractTool {
 	/** Implements the configuration of this tool. */
 	@Override
 	public void configure() {
-		commandService.run(FloodFillToolConfig.class, true, new Object[] {"tool", this}); // FIXME
+		commandService.run(FloodFillToolConfig.class, true, "tool", this);
 	}
 
 	/** Run flood fill when mouse clicked */

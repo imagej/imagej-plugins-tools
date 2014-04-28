@@ -56,7 +56,7 @@ public class PencilTool extends AbstractLineTool {
 
 	@Override
 	public void configure() {
-		commandService.run(PencilToolConfig.class, true, new Object[] {"tool", this}); // FIXME
+		commandService.run(PencilToolConfig.class, true, "tool", this);
 	}
 
 }

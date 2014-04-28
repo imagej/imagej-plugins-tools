@@ -128,7 +128,7 @@ public class SprayCanTool extends AbstractTool {
 
 	@Override
 	public void configure() {
-		commandService.run(SprayCanToolConfig.class, true, new Object[] {"tool", this}); // FIXME
+		commandService.run(SprayCanToolConfig.class, true, "tool", this);
 	}
 
 	public void setWidth(int width) { this.width = width; }
