@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>imagej-plugins-tools</artifactId>
-	<version>0.2.1-SNAPSHOT</version>
+	<version>0.2.1</version>
 
 	<name>ImageJ Plugins: Tools</name>
 	<description>Core tool plugins for ImageJ.</description>
@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/imagej/imagej-plugins-tools</connection>
 		<developerConnection>scm:git:git@github.com:imagej/imagej-plugins-tools</developerConnection>
-		<tag>HEAD</tag>
+		<tag>imagej-plugins-tools-0.2.1</tag>
 		<url>https://github.com/imagej/imagej-plugins-tools</url>
 	</scm>
 	<issueManagement>
