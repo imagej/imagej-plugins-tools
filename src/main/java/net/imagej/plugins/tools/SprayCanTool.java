@@ -36,13 +36,13 @@ import java.util.Random;
 import net.imagej.ChannelCollection;
 import net.imagej.Dataset;
 import net.imagej.DrawingTool;
+import net.imagej.axis.Axes;
 import net.imagej.display.ImageCanvas;
 import net.imagej.display.ImageDisplay;
 import net.imagej.display.ImageDisplayService;
 import net.imagej.event.DatasetUpdatedEvent;
 import net.imagej.options.OptionsChannels;
 import net.imagej.render.RenderingService;
-import net.imglib2.meta.Axes;
 
 import org.scijava.command.CommandService;
 import org.scijava.display.event.input.MsButtonEvent;

@@ -32,9 +32,9 @@
 package net.imagej.plugins.tools;
 
 import net.imagej.ChannelCollection;
+import net.imagej.axis.Axes;
 import net.imagej.display.ImageDisplay;
 import net.imagej.display.ImageDisplayService;
-import net.imglib2.meta.Axes;
 
 import org.scijava.app.StatusService;
 import org.scijava.display.event.input.MsMovedEvent;

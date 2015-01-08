@@ -31,9 +31,9 @@
 
 package net.imagej.plugins.tools;
 
+import net.imagej.axis.Axes;
+import net.imagej.axis.AxisType;
 import net.imagej.display.ImageDisplay;
-import net.imglib2.meta.Axes;
-import net.imglib2.meta.AxisType;
 
 import org.scijava.display.Display;
 import org.scijava.display.event.input.KyPressedEvent;
