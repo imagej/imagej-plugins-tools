@@ -1,4 +1,4 @@
-![](http://jenkins.imagej.net/job/ImageJ-plugins-tools/lastBuild/badge/icon)
+[![](http://jenkins.imagej.net/job/ImageJ-plugins-tools/lastBuild/badge/icon)](http://jenkins.imagej.net/job/ImageJ-plugins-tools/)
 
 ImageJ Plugins: Tools
 ---------------------
