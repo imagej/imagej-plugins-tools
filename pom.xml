@@ -95,8 +95,8 @@
 		<url>http://github.com/imagej/imagej-plugins-tools/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/ImageJ-plugins-tools/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/imagej/imagej-plugins-tools</url>
 	</ciManagement>
 
 	<properties>
