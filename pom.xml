@@ -11,7 +11,7 @@
 
 	<groupId>net.imagej</groupId>
 	<artifactId>imagej-plugins-tools</artifactId>
-	<version>0.3.1-SNAPSHOT</version>
+	<version>0.3.2-SNAPSHOT</version>
 
 	<name>ImageJ Plugins: Tools</name>
 	<description>Core tool plugins for ImageJ.</description>
