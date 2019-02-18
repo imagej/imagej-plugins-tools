@@ -15,11 +15,11 @@
 
 	<name>ImageJ Plugins: Tools</name>
 	<description>Core tool plugins for ImageJ.</description>
-	<url>http://imagej.net/ImageJ_Plugins_Tools</url>
+	<url>https://imagej.net/ImageJ_Plugins_Tools</url>
 	<inceptionYear>2009</inceptionYear>
 	<organization>
 		<name>ImageJ</name>
-		<url>http://imagej.net/</url>
+		<url>https://imagej.net/</url>
 	</organization>
 	<licenses>
 		<license>
@@ -32,7 +32,7 @@
 		<developer>
 			<id>ctrueden</id>
 			<name>Curtis Rueden</name>
-			<url>http://imagej.net/User:Rueden</url>
+			<url>https://imagej.net/User:Rueden</url>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
@@ -47,32 +47,32 @@
 	<contributors>
 		<contributor>
 			<name>Rick Lentz</name>
-			<url>http://imagej.net/User:Lentz</url>
+			<url>https://imagej.net/User:Lentz</url>
 			<roles><role>founder</role></roles>
 		</contributor>
 		<contributor>
 			<name>Barry DeZonia</name>
-			<url>http://imagej.net/User:Bdezonia</url>
+			<url>https://imagej.net/User:Bdezonia</url>
 			<properties><id>bdezonia</id></properties>
 		</contributor>
 		<contributor>
 			<name>Grant Harris</name>
-			<url>http://imagej.net/User:Harris</url>
+			<url>https://imagej.net/User:Harris</url>
 			<properties><id>tnargsirrah</id></properties>
 		</contributor>
 		<contributor>
 			<name>Mark Hiner</name>
-			<url>http://imagej.net/User:Hinerm</url>
+			<url>https://imagej.net/User:Hinerm</url>
 			<properties><id>hinerm</id></properties>
 		</contributor>
 		<contributor>
 			<name>Lee Kamentsky</name>
-			<url>http://imagej.net/User:Leek</url>
+			<url>https://imagej.net/User:Leek</url>
 			<properties><id>LeeKamentsky</id></properties>
 		</contributor>
 		<contributor>
 			<name>Johannes Schindelin</name>
-			<url>http://imagej.net/User:Schindelin</url>
+			<url>https://imagej.net/User:Schindelin</url>
 			<properties><id>dscho</id></properties>
 		</contributor>
 	</contributors>
@@ -114,7 +114,7 @@ Institute of Molecular Cell Biology and Genetics.</license.copyrightOwners>
 	<repositories>
 		<repository>
 			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
+			<url>https://maven.imagej.net/content/groups/public</url>
 		</repository>
 	</repositories>
 
